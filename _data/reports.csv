@@ -15,6 +15,7 @@ Date,Vulnerability,Researcher
 "Sep 1, 2018",Cookie missing secure flag,Ratnadip Gajbhiye
 "Oct 4, 2018",Clickjacking,Arun Kumar
 "Oct 15, 2018",Clickjacking,Arpit Jain
+"Nov 6, 2018",Disclosure of libraries and versions,Bhavesh Thakur
 "Nov 21, 2018",Clickjacking,Sparrow Hacks
 "Dec 15, 2018",Github wiki unrestricted,Mohammed Israil
 "Dec 24, 2018",Open Redirection,Raviraj Powar
