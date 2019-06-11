@@ -22,3 +22,4 @@ Date,Vulnerability,Researcher
 "Dec 29, 2018",Race condition in Cashback,Saurabh Sharma
 "Mar 10, 2019",Github wiki unrestricted,Sanek Larek
 "Apr 29, 2019",Improper Logout,Dinesh Dinz
+"May 3, 2019",Potentially Insecure WebView Activity,Dinesh Dinz
