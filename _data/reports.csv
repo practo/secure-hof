@@ -23,3 +23,5 @@ Date,Vulnerability,Researcher
 "Mar 10, 2019",Github wiki unrestricted,Sanek Larek
 "Apr 29, 2019",Improper Logout,Dinesh Dinz
 "May 3, 2019",Potentially Insecure WebView Activity,Dinesh Dinz
+"Jul 29, 2019",Broken Admin panel interface,Joel Verghese
+"Jul 29, 2019",Reflected XSS,Joel Verghese
