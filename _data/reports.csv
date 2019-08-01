@@ -26,3 +26,5 @@ Date,Vulnerability,Researcher
 "Jul 29, 2019",Broken Admin panel interface,Joel Verghese
 "Jul 29, 2019",Reflected XSS,Joel Verghese
 "Jul 30, 2019",Web Cache Deception,Pratik Dabhi
+"Jul 31, 2019",Web Cache Deception,Joel Verghese
+"Jul 31, 2019",Stored XSS,Joel Verghese
