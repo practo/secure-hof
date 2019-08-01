@@ -1,4 +1,4 @@
-{% for report in site.data.reports %}
+{% for report in site.data.reports reversed %}
 - {{ report.Date }}
 
     **{{ report.Researcher }}** reported _{{ report.Vulnerability }}_
