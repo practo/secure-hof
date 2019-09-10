@@ -29,3 +29,4 @@ Date,Vulnerability,Researcher
 "Jul 31, 2019",Web Cache Deception,Joel Verghese
 "Jul 31, 2019",Stored XSS,Joel Verghese
 "Aug 4, 2019",Weak bruteforce protection for 2FA,Ambuj Kumar
+"Sep 4, 2019",Session management,Ishan Anand
