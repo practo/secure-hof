@@ -30,3 +30,4 @@ Date,Vulnerability,Researcher
 "Jul 31, 2019",Stored XSS,Joel Verghese
 "Aug 4, 2019",Weak bruteforce protection for 2FA,Ambuj Kumar
 "Sep 4, 2019",Session management,Ishan Anand
+"Sep 15, 2019",Session management,Gaurav Popalghat
