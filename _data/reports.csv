@@ -34,3 +34,4 @@ Date,Vulnerability,Researcher
 "Oct 19, 2019",Spamming,Anurag Pathak
 "Nov 2, 2019",Improper Logout,Sanyam Jain
 "Dec 14, 2019",Reflected XSS,Vikas Rawat
+"Dec 20, 2019",Google Maps API Key misconfiguration,Amiya Behera
