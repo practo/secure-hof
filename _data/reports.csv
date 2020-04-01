@@ -38,3 +38,4 @@ Date,Vulnerability,Researcher
 "Jan 31, 2020",SPF misconfiguration,Krishna Chaitanya
 "Feb 23, 2020",CAA configuration,Saim Sardar
 "Mar 9, 2020",HTML Injection,Sushmitha Katikitala
+"Apr 1, 2020",Google Maps API Key misconfiguration,Vishwas Reddy
