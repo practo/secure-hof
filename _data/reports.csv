@@ -42,3 +42,4 @@ Date,Vulnerability,Researcher
 "Apr 8, 2020",Google Maps API Key misconfiguration,Shivang Trivedi
 "May 9, 2020",Clickjacking,Pritam Mukherjee
 "May 23, 2020",Google Maps API Key misconfiguration,Chakka Sai Teja
+"May 28, 2020",Potential Subdomain Takeover, Muhammed Korany
