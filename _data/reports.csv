@@ -45,3 +45,4 @@ Date,Vulnerability,Researcher
 "May 28, 2020",Potential Subdomain Takeover,Muhammed Korany
 "Jul 21, 2020",Google Maps API Key misconfiguration,Prakhar Pipersaniya
 "Sep 16, 2020",Spamming,Ali Hassam
+"Sep 26, 2020",Weak Password Reset Implementation,Omkar Vetal
