@@ -46,3 +46,4 @@ Date,Vulnerability,Researcher
 "Jul 21, 2020",Google Maps API Key misconfiguration,Prakhar Pipersaniya
 "Sep 16, 2020",Spamming,Ali Hassam
 "Sep 26, 2020",Weak Password Reset Implementation,Omkar Vetal
+"Oct 11, 2020",Reflected XSS in Subdomain,Srikar V
