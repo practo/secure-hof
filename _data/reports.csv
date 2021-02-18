@@ -48,5 +48,7 @@ Date,Vulnerability,Researcher
 "Sep 26, 2020",Weak Password Reset Implementation,Omkar Vetal
 "Oct 11, 2020",Reflected XSS in Subdomain,Srikar V
 "Dec 19, 2020",Session management,Staford Titus S
+"Jan 6, 2021",Denial of Service,Ashwin V
 "Jan 30, 2021",Google Maps API Key misconfiguration,Ranjit Pahan
 "Jan 30, 2021",API Key misconfiguration,Ranjit Pahan
+"Feb 16, 2021",CRLF Injection in a subdomain,Divya Singh
