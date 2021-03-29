@@ -52,3 +52,4 @@ Date,Vulnerability,Researcher
 "Jan 30, 2021",Google Maps API Key misconfiguration,Ranjit Pahan
 "Jan 30, 2021",API Key misconfiguration,Ranjit Pahan
 "Feb 16, 2021",CRLF Injection in a subdomain,Divya Singh
+"Mar 18, 2021",Potential Subdomain Takeover,Ganesh Bagaria
