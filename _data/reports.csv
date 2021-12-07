@@ -56,3 +56,4 @@ Date,Vulnerability,Researcher
 "Jun 29, 2021",Insecure Direct Object Reference,Sourabh Dalodia
 "Jun 30, 2021",Insecure Direct Object Reference,Sourabh Dalodia
 "Aug 7, 2021",EXIF Geolocation Data,Dnyanesh Gawande
+"Dec 2, 2021",CRLF Injection,Yeswanth Reddy
