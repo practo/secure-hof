@@ -56,5 +56,6 @@ Date,Vulnerability,Researcher
 "Jun 29, 2021",Insecure Direct Object Reference,Sourabh Dalodia
 "Jun 30, 2021",Insecure Direct Object Reference,Sourabh Dalodia
 "Aug 7, 2021",EXIF Geolocation Data,Dnyanesh Gawande
+"Oct 22, 2021",Reflected XSS in Insta,"Neeraj Guarav, X-Force Red"
 "Nov 21, 2021",Google Maps API Key misconfiguration,Subramanian
 "Dec 2, 2021",CRLF Injection,Yeswanth Reddy
