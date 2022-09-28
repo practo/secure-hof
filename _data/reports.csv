@@ -59,5 +59,6 @@ Date,Vulnerability,Researcher
 "Oct 22, 2021",Reflected XSS in Insta,"Neeraj Guarav, X-Force Red"
 "Nov 21, 2021",Google Maps API Key misconfiguration,Subramanian
 "Dec 2, 2021",CRLF Injection,Yeswanth Reddy
+"Sep 8, 2022",Spamming,Dip Tarafder
 "Sep 22, 2022",Test Credential Exposure via Code,Jatin Dhankhar
 "Sep 22, 2022",Test Credential Exposure via Code,Sahid Ahmad
